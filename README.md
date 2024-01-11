@@ -1,4 +1,4 @@
-# OOP
+# Bài giảng OOP
 
 ##Buổi 1 https://github.com/thanhdnh/OOP_B1
 
